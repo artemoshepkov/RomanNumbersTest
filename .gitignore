@@ -1,0 +1,13 @@
+repos_labs/App.config
+repos_labs/Properties/
+repos_labs/obj/
+repos_labs/visual_programming.csproj
+repos_labs/visual_programming.sln
+repos_labs/.vs/
+repos_labs/bin/
+repos_labs/TestResults/
+repos_labs/visual_programming/.vs/visual_programming/DesignTimeBuild/.dtbcache.v2
+
+visual_programmingTests1/bin
+visual_programmingTests1/obj
+visual_programmingTests1/visual_programmingTests.csproj
